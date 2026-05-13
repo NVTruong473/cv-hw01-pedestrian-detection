@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Models (optional)
+*.keras
+
+# Colab
+.ipynb_checkpoints/
+
+# System
+.DS_Store
